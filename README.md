@@ -3,7 +3,9 @@
 
 In this reposetory I performed Exploratory Data Analysis (EDA) using groupby/pivot_table and barplot (total 9 barplots), based on model, transmission, and fuelType,
 
+
 Findings:
+
 A. Top 5 selling car models/transmission/fuelType in the dataset
 
 B. The average selling price of the top 5 selling car models/transmission/fuelType
